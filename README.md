@@ -136,3 +136,11 @@ compilers: {
 ---
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
+
+## Project Submission Instructions
+
+- Truffle version v5.4.14 (core: 5.4.14)
+- OpenZeppelin "@openzeppelin/contracts": "^4.3.2"
+- ERC-721 Token Name => star Token
+- ERC-721 Token Symbol => ST
+- contract address on rinkeby => 0x13Dc52Be419A5E260315C4033fE03b053887138c
